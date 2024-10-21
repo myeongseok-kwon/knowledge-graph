@@ -1,0 +1,9 @@
+streamlit
+networkx
+matplotlib
+pyvis
+termcolor
+PyPDF2
+xmltodict
+openai
+python-dotenv
